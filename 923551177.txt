@@ -1,0 +1,50 @@
+ISA*00*          *00*          *08*9251190000     *ZZ*GEHRKE         *240228*0936*U*00401*000027520*0*P*\
+GS*PO*GMI-GBCVEN*GEHRKE*20240228*0936*27517*X*004010
+ST*850*0001
+BEG*00*SA*12814607**20240228
+CUR*BY*USD
+PER*BD*directmaterials.pss@genmills.com*TE*+1-855-775-9498
+PER*OC*Crystal Blair*TE*+1 (573) 2313629
+FOB*CC*OR*ZOC Ship Point Collect
+ITD**3*****120
+N9*55*1*General Mills Standard Messages
+MSG*The transaction contemplated by this EDI transmission shall be governed
+MSG*by General Mills standard Purchase Order Terms and Conditions dated
+MSG*January 2020
+MSG*Along with the other obligations listed in this Purchase Order,
+MSG*suppliers are expected to operate in an environmentally responsible
+MSG*manner and comply with all regulatory requirements.
+N9*ME*1*Shipping Instructions
+MSG*Shipping Hours: Monday - Friday 7:00AM - 4:30PM
+MSG*Shipments per day:  4 by appointment
+MSG*Lead Time for changes to pick up dates:  1 Week for planning purposes
+MSG*Schedule appointments
+MSG*-,,Steven McNew stevenmcnew@galdisa.com
+MSG*-,,David Cabello dcabello@galdisa.com
+MSG*-,,(936) 242-5527
+N1*BY*General Mills Operations, LLC*92*0001
+N3*Number One General Mills Boulevard
+N4*Minneapolis*MN*55426*US
+N1*SE*GALDISA PEANUT*92*00209744
+N3*18215 45TH AVE N STE A
+N4*PLYMOUTH*MN*55446*US
+PO1*0000010*40000*LB*111.5*HP*BP*2041480000
+PID*F****PEANUT BUTTER #7 - 500#
+REF*CT*46113254
+REF*C7*10
+REF*S3*2530621
+DTM*002*20240421
+DTM*010*20240418
+TD5****H
+PKG*F*68***WHITE WOOD
+N1*SF*GALDISA USA*92*0000515940
+N3*3455 POLLOK DR
+N4*CONROE*TX*77303*US
+N1*ST*General Mills Operations, LLC*92*01HNWA
+N2*Hannibal Manufacturing*Plant - 587
+N3*1 Red Devil Rd
+N4*Hannibal*MO*634016312*US
+CTT*1
+SE*46*0001
+GE*1*27517
+IEA*1*000027520
